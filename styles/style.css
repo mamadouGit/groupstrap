@@ -14,3 +14,8 @@ body {
 /**
  * Add your styles below
  */
+ 
+ .containercard{
+	 display: flex;
+	 flex-direction: row;
+ }
